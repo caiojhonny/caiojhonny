@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, i'm a Brazilian Developer 👋🇧🇷
+
+Musician frustrated in his spare time and currently working at [@doppiozerosrl](https://doppiozero.to/).
+
+Web Developer & Partner at [@imaginaryagency](https://imaginary.agency/). 
+
 
 <!--
 **caiojhonny/caiojhonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
