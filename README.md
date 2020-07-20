@@ -1,4 +1,4 @@
-### Hi, i'm a Brazilian Developer 👋🇧🇷
+### Hi, i'm a Brazilian Developer 👋 🇧🇷
 
 Musician frustrated in his spare time and currently working at [@doppiozerosrl](https://doppiozero.to/).
 
