@@ -1,6 +1,6 @@
 ### Hi, i'm a Brazilian Developer 👋 🇧🇷
 
-Musician frustrated in his spare time and currently working at [@doppiozerosrl](https://doppiozero.to/).
+Musician frustrated in his spare time and currently working at [@fiberwide](https://www.fiberwide.com/).
 
 Web Developer & Partner at [@imaginaryagency](https://imaginary.agency/). 
 
