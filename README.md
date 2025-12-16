@@ -1,4 +1,4 @@
-### Hi, i'm a Brazilian Fullstack Developer 👋 🇧🇷
+### Hi, i'm a Brazilian Senior Fullstack Developer 👋 🇧🇷
 
 Musician frustrated in his spare time and currently working at [@fiberwide](https://www.fiberwide.com/).
 
